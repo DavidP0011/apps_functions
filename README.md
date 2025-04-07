@@ -112,8 +112,3 @@ Este proyecto se distribuye bajo la [Licencia MIT](LICENSE).
 ## Contacto
 
 Para consultas, sugerencias o reportar errores, abre un issue en GitHub o contacta al autor.
-```
-
----
-
-Este ejemplo de setup.py e README.md está basado en los módulos encontrados en el repositorio y en las dependencias requeridas para que todas las funciones operen correctamente. ¿Te parece adecuado o deseas algún ajuste adicional?
