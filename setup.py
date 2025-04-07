@@ -19,9 +19,7 @@ setup(
         "oauth2client>=4.1.3",              # Para autenticación con Google Sheets mediante ServiceAccountCredentials
         "openai-whisper>=20230314",         # Para la transcripción de audio/video usando Whisper
         "torch>=1.10.0"                     # Requerido para ejecutar el modelo Whisper (PyTorch)
-    ]
-
-
+    ],
     entry_points={
         # Scripts ejecutables desde la línea de comando
         # 'console_scripts': [
