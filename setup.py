@@ -22,8 +22,8 @@ setup(
         "oauth2client>=4.1.3",              
         "openai-whisper>=20230314",         
         "torch>=1.10.0",                    
-        # Aquí viene la dependencia directa del repo utils_functions
-        "dpm_utils_functions @ git+https://github.com/DavidP0011/utils_functions.git@main#egg=dpm_utils_functions",
+        # Aquí viene la dependencia directa del repo common_functions
+        "dpm_utils_functions @ git+https://github.com/DavidP0011/common_functions.git@main#egg=dpm_common_functions",
     ],
     entry_points={
         # Si tuvieras scripts de consola, los listarías acá
